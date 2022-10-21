@@ -1,0 +1,487 @@
+2022-08-01T08:25:18.522Z [server] info: server started at http://localhost:61001
+2022-08-01T08:27:18.101Z [server] info: server started at http://localhost:61001
+2022-08-01T09:20:54.339Z [server] info: server started at http://localhost:61001
+2022-08-01T09:25:55.513Z [server] info: server started at http://localhost:61001
+2022-08-01T09:26:09.844Z [server] info: server started at http://localhost:61001
+2022-08-01T09:26:56.181Z [server] info: server started at http://localhost:61001
+2022-08-01T09:28:22.009Z [server] info: server started at http://localhost:61001
+2022-08-01T09:28:36.643Z [server] info: server started at http://localhost:61001
+2022-08-01T09:28:57.463Z [server] info: server started at http://localhost:61001
+2022-08-01T09:31:25.484Z [server] info: server started at http://localhost:61001
+2022-08-01T09:39:29.856Z [server] info: retrieving product listing
+2022-08-01T09:41:15.095Z [server] info: server started at http://localhost:61001
+2022-08-01T09:45:26.212Z [server] info: server started at http://localhost:61001
+2022-08-01T09:45:53.636Z [server] info: server started at http://localhost:61001
+2022-08-01T09:46:25.141Z [server] info: server started at http://localhost:61001
+2022-08-01T09:46:57.011Z [server] info: server started at http://localhost:61001
+2022-08-01T09:47:27.675Z [server] info: server started at http://localhost:61001
+2022-08-01T09:48:17.324Z [server] info: server started at http://localhost:61001
+2022-08-01T09:48:28.632Z [server] info: retrieving product listing
+2022-08-01T09:48:44.739Z [server] info: retrieving product listing
+2022-08-01T09:50:58.161Z [server] info: server started at http://localhost:61001
+2022-08-01T09:52:55.054Z [server] info: server started at http://localhost:61001
+2022-08-01T09:55:35.394Z [server] info: server started at http://localhost:61001
+2022-08-01T09:56:35.491Z [server] info: server started at http://localhost:61001
+2022-08-02T02:57:31.061Z [server] info: server started at http://localhost:61001
+2022-08-02T03:00:55.426Z [server] info: server started at http://localhost:61001
+2022-08-02T03:01:21.429Z [server] info: server started at http://localhost:61001
+2022-08-02T03:02:06.856Z [server] info: server started at http://localhost:61001
+2022-08-02T03:02:49.904Z [server] info: server started at http://localhost:61001
+2022-08-02T03:03:10.520Z [server] info: server started at http://localhost:61001
+2022-08-02T03:03:34.703Z [server] info: server started at http://localhost:61001
+2022-08-02T03:04:28.662Z [server] info: server started at http://localhost:61001
+2022-08-02T03:05:40.788Z [server] info: server started at http://localhost:61001
+2022-08-02T03:06:20.126Z [server] info: server started at http://localhost:61001
+2022-08-02T03:15:57.676Z [server] info: server started at http://localhost:61001
+2022-08-02T03:16:41.910Z [server] info: server started at http://localhost:61001
+2022-08-02T03:17:09.161Z [server] info: server started at http://localhost:61001
+2022-08-02T03:17:51.106Z [server] info: server started at http://localhost:61001
+2022-08-02T03:25:10.641Z [server] info: server started at http://localhost:61001
+2022-08-02T03:25:40.702Z [server] info: server started at http://localhost:61001
+2022-08-02T03:26:46.242Z [server] info: server started at http://localhost:61001
+2022-08-02T03:27:55.238Z [server] info: server started at http://localhost:61001
+2022-08-02T03:28:45.847Z [server] info: server started at http://localhost:61001
+2022-08-02T03:31:56.798Z [server] info: server started at http://localhost:61001
+2022-08-02T03:33:28.700Z [server] info: server started at http://localhost:61001
+2022-08-02T03:33:52.912Z [server] info: server started at http://localhost:61001
+2022-08-02T03:34:21.975Z [server] info: server started at http://localhost:61001
+2022-08-02T03:34:47.182Z [server] info: server started at http://localhost:61001
+2022-08-02T03:35:47.286Z [server] info: server started at http://localhost:61001
+2022-08-02T03:36:34.056Z [server] info: server started at http://localhost:61001
+2022-08-02T03:36:48.540Z [server] info: server started at http://localhost:61001
+2022-08-02T03:37:41.259Z [server] info: server started at http://localhost:61001
+2022-08-02T03:38:58.131Z [server] info: server started at http://localhost:61001
+2022-08-02T03:39:42.019Z [server] info: server started at http://localhost:61001
+2022-08-02T03:41:28.737Z [server] info: server started at http://localhost:61001
+2022-08-02T03:41:53.592Z [server] info: server started at http://localhost:61001
+2022-08-02T03:42:13.810Z [server] info: server started at http://localhost:61001
+2022-08-02T03:42:52.257Z [server] info: server started at http://localhost:61001
+2022-08-02T03:43:38.918Z [server] info: server started at http://localhost:61001
+2022-08-02T03:44:20.258Z [server] info: server started at http://localhost:61001
+2022-08-02T03:44:45.256Z [server] info: server started at http://localhost:61001
+2022-08-02T03:46:15.330Z [server] info: server started at http://localhost:61001
+2022-08-02T03:47:25.800Z [server] info: server started at http://localhost:61001
+2022-08-02T03:47:44.421Z [server] info: server started at http://localhost:61001
+2022-08-02T03:48:55.100Z [server] info: server started at http://localhost:61001
+2022-08-02T03:49:43.411Z [server] info: server started at http://localhost:61001
+2022-08-02T03:50:10.975Z [server] info: server started at http://localhost:61001
+2022-08-02T03:50:55.479Z [server] info: server started at http://localhost:61001
+2022-08-02T03:51:25.393Z [server] info: server started at http://localhost:61001
+2022-08-02T03:51:44.474Z [server] info: server started at http://localhost:61001
+2022-08-02T03:52:03.328Z [server] info: server started at http://localhost:61001
+2022-08-02T03:52:34.916Z [server] info: server started at http://localhost:61001
+2022-08-02T03:53:02.132Z [server] info: server started at http://localhost:61001
+2022-08-02T03:53:36.466Z [server] info: server started at http://localhost:61001
+2022-08-02T03:54:03.863Z [server] info: server started at http://localhost:61001
+2022-08-02T03:54:36.441Z [server] info: server started at http://localhost:61001
+2022-08-02T04:08:51.533Z [server] info: server started at http://localhost:61001
+2022-08-02T04:09:09.061Z [server] info: server started at http://localhost:61001
+2022-08-02T04:09:20.665Z [server] info: server started at http://localhost:61001
+2022-08-02T04:09:50.352Z [server] info: server started at http://localhost:61001
+2022-08-02T04:12:20.379Z [server] info: server started at http://localhost:61001
+2022-08-02T04:12:36.000Z [server] info: server started at http://localhost:61001
+2022-08-02T04:12:55.244Z [server] info: server started at http://localhost:61001
+2022-08-02T04:13:24.389Z [server] info: server started at http://localhost:61001
+2022-08-02T04:13:52.566Z [server] info: server started at http://localhost:61001
+2022-08-02T04:14:10.241Z [server] info: server started at http://localhost:61001
+2022-08-02T04:14:35.736Z [server] info: server started at http://localhost:61001
+2022-08-02T04:17:26.674Z [server] info: server started at http://localhost:61001
+2022-08-02T04:17:47.377Z [server] info: server started at http://localhost:61001
+2022-08-02T04:19:08.123Z [server] info: server started at http://localhost:61001
+2022-08-02T04:19:28.681Z [server] info: server started at http://localhost:61001
+2022-08-02T04:19:48.103Z [server] info: server started at http://localhost:61001
+2022-08-02T04:20:02.954Z [server] info: server started at http://localhost:61001
+2022-08-02T04:20:28.851Z [server] info: server started at http://localhost:61001
+2022-08-02T04:22:12.110Z [server] info: server started at http://localhost:61001
+2022-08-02T04:22:35.144Z [server] info: server started at http://localhost:61001
+2022-08-02T04:23:38.850Z [server] info: server started at http://localhost:61001
+2022-08-02T04:25:49.041Z [server] info: server started at http://localhost:61001
+2022-08-02T04:29:06.170Z [server] info: server started at http://localhost:61001
+2022-08-02T04:30:53.422Z [server] info: server started at http://localhost:61001
+2022-08-02T04:31:28.249Z [server] info: server started at http://localhost:61001
+2022-08-02T04:33:18.337Z [server] info: server started at http://localhost:61001
+2022-08-02T04:34:13.336Z [server] info: server started at http://localhost:61001
+2022-08-02T06:22:50.256Z [server] info: server started at http://localhost:61001
+2022-08-02T06:23:42.712Z [server] info: server started at http://localhost:61001
+2022-08-02T06:24:37.145Z [server] info: server started at http://localhost:61001
+2022-08-02T06:24:55.178Z [server] info: server started at http://localhost:61001
+2022-08-02T06:42:21.560Z [server] info: server started at http://localhost:61001
+2022-08-02T06:42:55.896Z [server] info: server started at http://localhost:61001
+2022-08-02T06:43:22.359Z [server] info: server started at http://localhost:61001
+2022-08-02T06:47:27.460Z [server] info: server started at http://localhost:61001
+2022-08-02T06:49:16.054Z [server] info: server started at http://localhost:61001
+2022-08-02T06:49:26.757Z [server] info: server started at http://localhost:61001
+2022-08-02T06:50:53.299Z [server] info: server started at http://localhost:61001
+2022-08-02T06:53:08.615Z [server] info: server started at http://localhost:61001
+2022-08-02T06:54:06.189Z [server] info: server started at http://localhost:61001
+2022-08-02T06:54:21.635Z [server] info: server started at http://localhost:61001
+2022-08-02T06:58:01.673Z [server] info: server started at http://localhost:61001
+2022-08-02T06:59:23.313Z [server] info: server started at http://localhost:61001
+2022-08-02T06:59:42.446Z [server] info: server started at http://localhost:61001
+2022-08-02T07:00:10.167Z [server] info: server started at http://localhost:61001
+2022-08-02T07:00:37.048Z [server] info: server started at http://localhost:61001
+2022-08-02T07:01:09.507Z [server] info: server started at http://localhost:61001
+2022-08-02T07:03:24.160Z [server] info: server started at http://localhost:61001
+2022-08-02T07:03:36.458Z [server] info: server started at http://localhost:61001
+2022-08-02T07:19:45.602Z [server] info: server started at http://localhost:61001
+2022-08-02T07:20:46.398Z [server] info: server started at http://localhost:61001
+2022-08-02T07:21:09.954Z [server] info: server started at http://localhost:61001
+2022-08-02T07:23:54.056Z [server] info: server started at http://localhost:61001
+2022-08-02T08:14:23.336Z [server] info: server started at http://localhost:61001
+2022-08-02T08:15:17.520Z [server] info: server started at http://localhost:61001
+2022-08-02T08:16:09.709Z [server] info: server started at http://localhost:61001
+2022-08-02T08:17:01.271Z [server] info: server started at http://localhost:61001
+2022-08-02T08:17:48.450Z [server] info: server started at http://localhost:61001
+2022-08-02T08:18:58.141Z [server] info: server started at http://localhost:61001
+2022-08-02T08:21:04.875Z [server] info: server started at http://localhost:61001
+2022-08-02T08:23:26.017Z [server] info: server started at http://localhost:61001
+2022-08-02T08:23:42.846Z [server] info: server started at http://localhost:61001
+2022-08-02T08:24:31.639Z [server] info: server started at http://localhost:61001
+2022-08-02T08:25:41.505Z [server] info: server started at http://localhost:61001
+2022-08-02T08:26:01.993Z [server] info: server started at http://localhost:61001
+2022-08-02T08:26:19.028Z [server] info: server started at http://localhost:61001
+2022-08-02T08:26:43.608Z [server] info: server started at http://localhost:61001
+2022-08-02T08:28:43.329Z [server] info: server started at http://localhost:61001
+2022-08-02T08:28:57.633Z [server] info: server started at http://localhost:61001
+2022-08-02T08:29:09.076Z [server] info: server started at http://localhost:61001
+2022-08-02T08:29:33.944Z [server] info: server started at http://localhost:61001
+2022-08-02T09:28:57.312Z [server] info: server started at http://localhost:61001
+2022-08-02T09:32:45.847Z [server] info: server started at http://localhost:61001
+2022-08-02T09:35:13.007Z [server] info: server started at http://localhost:61001
+2022-08-02T09:36:09.018Z [server] info: server started at http://localhost:61001
+2022-08-02T09:37:55.328Z [server] info: server started at http://localhost:61001
+2022-08-02T09:38:06.840Z [server] info: server started at http://localhost:61001
+2022-08-02T09:38:54.654Z [server] info: server started at http://localhost:61001
+2022-08-02T09:39:35.532Z [server] info: server started at http://localhost:61001
+2022-08-02T09:40:15.481Z [server] info: server started at http://localhost:61001
+2022-08-02T09:41:55.264Z [server] info: server started at http://localhost:61001
+2022-08-02T09:43:00.416Z [server] info: server started at http://localhost:61001
+2022-08-02T09:46:23.057Z [server] info: server started at http://localhost:61001
+2022-08-02T09:46:43.350Z [server] info: server started at http://localhost:61001
+2022-08-02T09:49:17.952Z [server] info: server started at http://localhost:61001
+2022-08-02T09:49:49.334Z [server] info: server started at http://localhost:61001
+2022-08-02T09:50:32.242Z [server] info: server started at http://localhost:61001
+2022-08-02T09:53:55.597Z [server] info: server started at http://localhost:61001
+2022-08-02T09:54:07.918Z [server] info: server started at http://localhost:61001
+2022-08-02T09:54:57.941Z [server] info: server started at http://localhost:61001
+2022-08-02T09:57:40.444Z [server] info: server started at http://localhost:61001
+2022-08-02T10:02:30.694Z [server] info: server started at http://localhost:61001
+2022-08-02T10:03:08.398Z [server] info: server started at http://localhost:61001
+2022-10-19T07:03:38.753Z [server] info: server started at http://localhost:61001
+2022-10-19T07:05:37.883Z [server] info: retrieving product listing
+2022-10-19T07:06:01.114Z [server] info: server started at http://localhost:61001
+2022-10-19T07:06:52.218Z [server] info: server started at http://localhost:61001
+2022-10-19T07:07:29.917Z [server] info: server started at http://localhost:61001
+2022-10-19T07:07:30.974Z [server] info: retrieving product listing
+2022-10-19T07:09:44.320Z [server] info: retrieving product listing
+2022-10-19T07:12:05.306Z [server] info: server started at http://localhost:61001
+2022-10-19T07:12:36.077Z [server] info: server started at http://localhost:61001
+2022-10-19T07:12:37.905Z [server] info: retrieving product listing
+2022-10-19T07:13:54.220Z [server] info: server started at http://localhost:61001
+2022-10-19T07:13:54.302Z [server] info: retrieving product listing
+2022-10-19T08:40:23.499Z [server] info: server started at http://localhost:61001
+2022-10-19T08:41:35.126Z [server] info: server started at http://localhost:61001
+2022-10-19T08:45:58.057Z [server] info: server started at http://localhost:61001
+2022-10-19T08:47:51.828Z [server] info: server started at http://localhost:61001
+2022-10-19T08:50:01.870Z [server] info: server started at http://localhost:61001
+2022-10-19T08:50:22.696Z [server] info: server started at http://localhost:61001
+2022-10-19T08:50:51.254Z [server] info: server started at http://localhost:61001
+2022-10-19T08:53:51.936Z [server] info: server started at http://localhost:61001
+2022-10-19T08:54:26.133Z [server] info: server started at http://localhost:61001
+2022-10-19T08:54:59.919Z [server] info: server started at http://localhost:61001
+2022-10-19T08:55:22.195Z [server] info: server started at http://localhost:61001
+2022-10-19T08:55:49.435Z [server] info: server started at http://localhost:61001
+2022-10-19T08:56:15.264Z [server] info: server started at http://localhost:61001
+2022-10-19T08:57:51.961Z [server] info: server started at http://localhost:61001
+2022-10-19T08:58:44.352Z [server] info: server started at http://localhost:61001
+2022-10-19T08:59:06.545Z [server] info: server started at http://localhost:61001
+2022-10-19T08:59:40.488Z [server] info: server started at http://localhost:61001
+2022-10-19T09:00:14.112Z [server] info: server started at http://localhost:61001
+2022-10-19T09:00:33.640Z [server] info: server started at http://localhost:61001
+2022-10-19T09:00:58.980Z [server] info: server started at http://localhost:61001
+2022-10-19T09:01:20.207Z [server] info: server started at http://localhost:61001
+2022-10-19T09:01:42.042Z [server] info: server started at http://localhost:61001
+2022-10-19T09:02:10.645Z [server] info: server started at http://localhost:61001
+2022-10-19T09:02:41.861Z [server] info: server started at http://localhost:61001
+2022-10-19T09:03:10.881Z [server] info: server started at http://localhost:61001
+2022-10-19T09:03:20.644Z [server] info: server started at http://localhost:61001
+2022-10-19T09:03:44.812Z [server] info: server started at http://localhost:61001
+2022-10-19T09:04:36.131Z [server] info: server started at http://localhost:61001
+2022-10-19T09:05:18.362Z [server] info: server started at http://localhost:61001
+2022-10-19T09:05:33.641Z [server] info: server started at http://localhost:61001
+2022-10-19T09:06:05.559Z [server] info: server started at http://localhost:61001
+2022-10-19T09:07:59.084Z [server] info: server started at http://localhost:61001
+2022-10-19T09:09:31.593Z [server] info: server started at http://localhost:61001
+2022-10-19T09:09:58.578Z [server] info: server started at http://localhost:61001
+2022-10-19T09:10:38.850Z [server] info: server started at http://localhost:61001
+2022-10-19T09:11:10.935Z [server] info: server started at http://localhost:61001
+2022-10-19T09:11:46.845Z [server] info: server started at http://localhost:61001
+2022-10-19T09:12:21.006Z [server] info: server started at http://localhost:61001
+2022-10-19T09:13:00.976Z [server] info: server started at http://localhost:61001
+2022-10-19T09:13:26.770Z [server] info: server started at http://localhost:61001
+2022-10-19T09:13:47.255Z [server] info: server started at http://localhost:61001
+2022-10-19T09:30:11.950Z [server] info: server started at http://localhost:61001
+2022-10-19T09:31:01.773Z [server] info: server started at http://localhost:61001
+2022-10-19T09:31:48.684Z [server] info: server started at http://localhost:61001
+2022-10-19T09:32:52.703Z [server] info: server started at http://localhost:61001
+2022-10-19T09:34:33.185Z [server] info: server started at http://localhost:61001
+2022-10-19T09:34:48.972Z [server] info: server started at http://localhost:61001
+2022-10-19T09:35:05.817Z [server] info: server started at http://localhost:61001
+2022-10-19T09:39:56.345Z [server] info: server started at http://localhost:61001
+2022-10-19T09:40:27.597Z [server] info: server started at http://localhost:61001
+2022-10-19T09:40:58.481Z [server] info: server started at http://localhost:61001
+2022-10-19T09:41:57.321Z [server] info: server started at http://localhost:61001
+2022-10-19T09:45:47.626Z [server] info: server started at http://localhost:61001
+2022-10-19T09:46:55.802Z [server] info: server started at http://localhost:61001
+2022-10-19T09:47:32.967Z [server] info: server started at http://localhost:61001
+2022-10-20T07:53:58.845Z [server] info: server started at http://localhost:61001
+2022-10-20T07:56:07.872Z [server] info: server started at http://localhost:61001
+2022-10-20T07:56:09.463Z [server] info: retrieving product listing
+2022-10-20T07:56:55.194Z [server] info: retrieving product listing
+2022-10-20T07:57:34.655Z [server] info: server started at http://localhost:61001
+2022-10-20T07:58:12.900Z [server] info: server started at http://localhost:61001
+2022-10-20T07:59:36.670Z [server] info: server started at http://localhost:61001
+2022-10-20T07:59:39.448Z [server] info: retrieving product listing
+2022-10-20T07:59:43.151Z [server] info: retrieving product listing
+2022-10-20T07:59:45.769Z [server] info: retrieving product listing
+2022-10-20T07:59:46.761Z [server] info: retrieving product listing
+2022-10-20T08:00:05.848Z [server] info: retrieving product listing
+2022-10-20T08:00:05.857Z [server] error: {"name":"SequelizeDatabaseError","parent":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.name`des' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`name``des` LIMIT 0, 5;"},"original":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.name`des' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`name``des` LIMIT 0, 5;"},"sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`name``des` LIMIT 0, 5;"}
+2022-10-20T08:00:57.958Z [server] info: retrieving product listing
+2022-10-20T08:01:51.160Z [server] info: retrieving product listing
+2022-10-20T08:01:57.826Z [server] info: retrieving product listing
+2022-10-20T08:01:57.830Z [server] error: {"name":"SequelizeDatabaseError","parent":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.name`des' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`name``des` LIMIT 0, 5;"},"original":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.name`des' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`name``des` LIMIT 0, 5;"},"sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`name``des` LIMIT 0, 5;"}
+2022-10-20T08:02:39.769Z [server] info: server started at http://localhost:61001
+2022-10-20T08:03:03.536Z [server] info: retrieving product listing
+2022-10-20T08:03:05.669Z [server] info: retrieving product listing
+2022-10-20T08:04:00.652Z [server] info: retrieving product listing
+2022-10-20T08:04:00.662Z [server] error: {"name":"SequelizeDatabaseError","parent":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.abf' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`abf` ASC LIMIT 0, 5;"},"original":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.abf' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`abf` ASC LIMIT 0, 5;"},"sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`abf` ASC LIMIT 0, 5;"}
+2022-10-20T08:04:37.382Z [server] info: server started at http://localhost:61001
+2022-10-20T08:04:40.025Z [server] info: retrieving product listing
+2022-10-20T08:04:40.082Z [server] error: {"name":"SequelizeDatabaseError","parent":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.id`undefined' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`id``undefined` LIMIT 0, 10;"},"original":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.id`undefined' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`id``undefined` LIMIT 0, 10;"},"sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.`id``undefined` LIMIT 0, 10;"}
+2022-10-20T08:05:09.533Z [server] info: server started at http://localhost:61001
+2022-10-20T08:05:11.429Z [server] info: retrieving product listing
+2022-10-20T08:08:07.216Z [server] info: server started at http://localhost:61001
+2022-10-20T08:08:39.752Z [server] info: server started at http://localhost:61001
+2022-10-20T08:08:42.038Z [server] info: retrieving product listing
+2022-10-20T08:09:22.752Z [server] info: retrieving product listing
+2022-10-20T08:09:57.076Z [server] info: retrieving product listing
+2022-10-20T08:09:59.306Z [server] info: retrieving product listing
+2022-10-20T08:09:59.313Z [server] error: {"name":"SequelizeDatabaseError","parent":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.`' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.```` LIMIT 0, 10;"},"original":{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Product.`' in 'order clause'","sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.```` LIMIT 0, 10;"},"sql":"SELECT `id`, `code`, `name`, `category`, `brand`, `type`, `description`, `created_at`, `updated_at` FROM `product` AS `Product` ORDER BY `Product`.```` LIMIT 0, 10;"}
+2022-10-20T08:10:20.456Z [server] info: retrieving product listing
+2022-10-20T08:10:32.111Z [server] info: retrieving product listing
+2022-10-20T08:10:44.801Z [server] info: retrieving product listing
+2022-10-20T08:11:08.322Z [server] info: retrieving product listing
+2022-10-20T08:11:10.240Z [server] info: retrieving product listing
+2022-10-20T08:11:22.511Z [server] info: retrieving product listing
+2022-10-20T08:12:33.433Z [server] info: retrieving product listing
+2022-10-20T08:14:14.854Z [server] info: retrieving product listing
+2022-10-20T08:17:24.828Z [server] info: retrieving product listing
+2022-10-20T08:19:05.849Z [server] info: retrieving product listing
+2022-10-20T08:19:22.830Z [server] info: retrieving product listing
+2022-10-20T08:19:23.857Z [server] info: retrieving product listing
+2022-10-20T08:19:34.853Z [server] info: retrieving product listing
+2022-10-20T08:19:59.829Z [server] info: retrieving product listing
+2022-10-20T08:20:03.831Z [server] info: retrieving product listing
+2022-10-20T08:20:28.853Z [server] info: retrieving product listing
+2022-10-20T08:23:13.860Z [server] info: retrieving product listing
+2022-10-20T08:23:24.866Z [server] info: retrieving product listing
+2022-10-20T08:24:01.863Z [server] info: retrieving product listing
+2022-10-20T08:24:13.850Z [server] info: retrieving product listing
+2022-10-20T08:24:36.828Z [server] info: retrieving product listing
+2022-10-20T08:24:37.835Z [server] info: retrieving product listing
+2022-10-20T08:24:40.864Z [server] info: retrieving product listing
+2022-10-20T08:26:03.848Z [server] info: retrieving product listing
+2022-10-20T08:28:10.841Z [server] info: retrieving product listing
+2022-10-20T08:28:59.831Z [server] info: retrieving product listing
+2022-10-20T08:29:02.824Z [server] info: retrieving product listing
+2022-10-20T08:30:02.828Z [server] info: retrieving product listing
+2022-10-20T08:30:28.849Z [server] info: retrieving product listing
+2022-10-20T08:30:35.833Z [server] info: retrieving product listing
+2022-10-20T08:30:46.455Z [server] info: retrieving product listing
+2022-10-20T08:31:00.361Z [server] info: retrieving product listing
+2022-10-20T08:31:18.846Z [server] info: retrieving product listing
+2022-10-20T08:31:20.939Z [server] info: retrieving product listing
+2022-10-20T08:31:25.512Z [server] info: retrieving product listing
+2022-10-20T08:31:27.061Z [server] info: retrieving product listing
+2022-10-20T08:31:29.068Z [server] info: retrieving product listing
+2022-10-20T08:31:31.269Z [server] info: retrieving product listing
+2022-10-20T08:31:35.033Z [server] info: retrieving product listing
+2022-10-20T08:31:54.662Z [server] info: retrieving product listing
+2022-10-20T08:31:57.008Z [server] info: retrieving product listing
+2022-10-20T08:32:11.484Z [server] info: retrieving product listing
+2022-10-20T08:32:18.917Z [server] info: retrieving product listing
+2022-10-20T08:33:13.778Z [server] info: server started at http://localhost:61001
+2022-10-20T08:34:12.613Z [server] info: server started at http://localhost:61001
+2022-10-20T08:35:48.550Z [server] info: server started at http://localhost:61001
+2022-10-20T08:35:53.806Z [server] info: retrieving product listing
+2022-10-20T08:44:11.856Z [server] info: retrieving product listing
+2022-10-20T08:44:22.831Z [server] info: retrieving product listing
+2022-10-20T08:44:41.862Z [server] info: retrieving product listing
+2022-10-20T08:44:55.844Z [server] info: retrieving product listing
+2022-10-20T08:45:21.832Z [server] info: retrieving product listing
+2022-10-20T08:45:48.858Z [server] info: retrieving product listing
+2022-10-20T08:46:00.835Z [server] info: retrieving product listing
+2022-10-20T08:47:01.839Z [server] info: retrieving product listing
+2022-10-20T08:47:16.850Z [server] info: retrieving product listing
+2022-10-20T08:50:51.828Z [server] info: retrieving product listing
+2022-10-20T08:51:39.837Z [server] info: retrieving product listing
+2022-10-20T08:51:42.827Z [server] info: retrieving product listing
+2022-10-20T08:51:57.834Z [server] info: retrieving product listing
+2022-10-20T08:52:12.825Z [server] info: retrieving product listing
+2022-10-20T08:52:15.852Z [server] info: retrieving product listing
+2022-10-20T08:52:49.828Z [server] info: retrieving product listing
+2022-10-20T08:53:16.819Z [server] info: retrieving product listing
+2022-10-20T08:53:23.826Z [server] info: retrieving product listing
+2022-10-20T08:53:37.848Z [server] info: retrieving product listing
+2022-10-20T08:54:00.830Z [server] info: retrieving product listing
+2022-10-20T08:54:01.829Z [server] info: retrieving product listing
+2022-10-20T08:54:07.853Z [server] info: retrieving product listing
+2022-10-20T08:54:22.849Z [server] info: retrieving product listing
+2022-10-20T08:54:45.845Z [server] info: retrieving product listing
+2022-10-20T08:55:05.822Z [server] info: retrieving product listing
+2022-10-20T08:55:09.823Z [server] info: retrieving product listing
+2022-10-20T08:55:15.826Z [server] info: retrieving product listing
+2022-10-20T08:55:26.824Z [server] info: retrieving product listing
+2022-10-20T08:56:00.833Z [server] info: retrieving product listing
+2022-10-20T08:56:17.832Z [server] info: retrieving product listing
+2022-10-20T08:56:28.821Z [server] info: retrieving product listing
+2022-10-20T08:56:35.855Z [server] info: retrieving product listing
+2022-10-20T08:56:54.848Z [server] info: retrieving product listing
+2022-10-20T08:57:06.850Z [server] info: retrieving product listing
+2022-10-20T08:57:15.835Z [server] info: retrieving product listing
+2022-10-20T08:57:38.869Z [server] info: retrieving product listing
+2022-10-20T09:01:04.862Z [server] info: retrieving product listing
+2022-10-20T09:01:08.875Z [server] info: retrieving product listing
+2022-10-20T09:01:48.854Z [server] info: retrieving product listing
+2022-10-20T09:08:21.414Z [server] info: server started at http://localhost:61001
+2022-10-20T09:11:36.985Z [server] info: retrieving product listing
+2022-10-20T09:12:58.840Z [server] info: retrieving product listing
+2022-10-20T09:13:09.881Z [server] info: retrieving product listing
+2022-10-20T09:13:10.838Z [server] info: retrieving product listing
+2022-10-20T09:13:30.851Z [server] info: retrieving product listing
+2022-10-20T09:14:39.599Z [server] info: retrieving product listing
+2022-10-20T09:15:06.143Z [server] info: retrieving product listing
+2022-10-20T09:15:15.537Z [server] info: retrieving product listing
+2022-10-20T09:15:34.199Z [server] info: retrieving product listing
+2022-10-20T09:15:35.448Z [server] info: retrieving product listing
+2022-10-20T09:15:46.279Z [server] info: retrieving product listing
+2022-10-20T09:15:48.345Z [server] info: retrieving product listing
+2022-10-20T09:15:55.377Z [server] info: retrieving product listing
+2022-10-20T09:16:00.569Z [server] info: retrieving product listing
+2022-10-20T09:17:02.834Z [server] info: retrieving product listing
+2022-10-20T09:17:19.838Z [server] info: retrieving product listing
+2022-10-20T09:17:21.875Z [server] info: retrieving product listing
+2022-10-20T09:17:30.771Z [server] info: retrieving product listing
+2022-10-20T09:18:02.008Z [server] info: retrieving product listing
+2022-10-20T09:18:09.764Z [server] info: retrieving product listing
+2022-10-20T09:19:28.930Z [server] info: server started at http://localhost:61001
+2022-10-20T09:20:14.911Z [server] info: server started at http://localhost:61001
+2022-10-20T09:23:21.672Z [server] info: server started at http://localhost:61001
+2022-10-20T09:24:16.423Z [server] info: server started at http://localhost:61001
+2022-10-20T09:27:05.204Z [server] info: server started at http://localhost:61001
+2022-10-20T09:28:49.375Z [server] info: server started at http://localhost:61001
+2022-10-20T09:29:20.196Z [server] info: server started at http://localhost:61001
+2022-10-20T09:30:17.882Z [server] info: retrieving product listing
+2022-10-20T09:30:21.848Z [server] info: retrieving product listing
+2022-10-20T09:30:29.829Z [server] info: retrieving product listing
+2022-10-20T09:31:25.891Z [server] info: retrieving product listing
+2022-10-20T09:31:57.826Z [server] info: retrieving product listing
+2022-10-20T09:34:13.255Z [server] info: server started at http://localhost:61001
+2022-10-20T09:34:28.917Z [server] info: server started at http://localhost:61001
+2022-10-20T09:35:48.215Z [server] info: server started at http://localhost:61001
+2022-10-20T09:39:01.619Z [server] info: server started at http://localhost:61001
+2022-10-20T09:39:46.799Z [server] info: server started at http://localhost:61001
+2022-10-20T09:40:19.371Z [server] info: server started at http://localhost:61001
+2022-10-20T09:42:29.019Z [server] info: server started at http://localhost:61001
+2022-10-20T09:43:04.936Z [server] info: server started at http://localhost:61001
+2022-10-20T09:47:16.838Z [server] info: retrieving product listing
+2022-10-20T09:47:44.847Z [server] info: retrieving product listing
+2022-10-20T09:48:32.831Z [server] info: retrieving product listing
+2022-10-20T09:48:38.850Z [server] info: retrieving product listing
+2022-10-20T09:48:53.828Z [server] info: retrieving product listing
+2022-10-20T09:48:55.847Z [server] info: retrieving product listing
+2022-10-20T09:49:01.828Z [server] info: retrieving product listing
+2022-10-20T09:49:36.832Z [server] info: retrieving product listing
+2022-10-20T09:50:19.891Z [server] info: retrieving product listing
+2022-10-20T09:50:39.863Z [server] info: retrieving product listing
+2022-10-20T09:50:58.893Z [server] info: retrieving product listing
+2022-10-20T09:51:22.874Z [server] info: retrieving product listing
+2022-10-20T09:52:51.923Z [server] info: retrieving product listing
+2022-10-20T09:52:53.193Z [server] info: retrieving product listing
+2022-10-20T09:52:55.759Z [server] info: retrieving product listing
+2022-10-20T09:52:57.448Z [server] info: retrieving product listing
+2022-10-20T09:53:00.546Z [server] info: retrieving product listing
+2022-10-20T09:53:03.184Z [server] info: retrieving product listing
+2022-10-20T09:53:22.730Z [server] info: retrieving product listing
+2022-10-20T09:53:24.208Z [server] info: retrieving product listing
+2022-10-20T09:54:08.296Z [server] info: retrieving product listing
+2022-10-20T10:00:33.108Z [server] info: server started at http://localhost:61001
+2022-10-20T10:02:45.132Z [server] info: retrieving product listing
+2022-10-20T10:03:22.902Z [server] info: retrieving product listing
+2022-10-20T10:03:34.417Z [server] info: retrieving product listing
+2022-10-20T10:03:50.851Z [server] info: retrieving product listing
+2022-10-20T10:03:56.473Z [server] info: retrieving product listing
+2022-10-20T10:04:16.951Z [server] info: retrieving product listing
+2022-10-20T10:04:27.873Z [server] info: retrieving product listing
+2022-10-20T10:04:58.842Z [server] info: retrieving product listing
+2022-10-20T10:05:02.841Z [server] info: retrieving product listing
+2022-10-20T10:05:05.845Z [server] info: retrieving product listing
+2022-10-20T10:06:22.844Z [server] info: retrieving product listing
+2022-10-20T10:07:02.824Z [server] info: retrieving product listing
+2022-10-20T10:07:18.712Z [server] info: retrieving product listing
+2022-10-20T10:07:31.876Z [server] info: retrieving product listing
+2022-10-20T10:07:39.612Z [server] info: retrieving product listing
+2022-10-20T10:07:52.109Z [server] info: retrieving product listing
+2022-10-20T10:07:57.758Z [server] info: retrieving product listing
+2022-10-20T10:08:03.860Z [server] info: retrieving product listing
+2022-10-20T10:08:07.554Z [server] info: retrieving product listing
+2022-10-20T10:08:17.003Z [server] info: retrieving product listing
+2022-10-20T10:08:27.603Z [server] info: retrieving product listing
+2022-10-20T10:08:32.131Z [server] info: retrieving product listing
+2022-10-20T10:08:40.705Z [server] info: retrieving product listing
+2022-10-20T10:08:46.834Z [server] info: retrieving product listing
+2022-10-20T10:08:47.716Z [server] info: retrieving product listing
+2022-10-20T10:08:52.844Z [server] info: retrieving product listing
+2022-10-20T10:08:57.183Z [server] info: retrieving product listing
+2022-10-20T10:09:08.837Z [server] info: retrieving product listing
+2022-10-20T10:09:11.345Z [server] info: retrieving product listing
+2022-10-20T10:09:32.846Z [server] info: retrieving product listing
+2022-10-20T10:09:50.895Z [server] info: retrieving product listing
+2022-10-20T10:10:33.899Z [server] info: retrieving product listing
+2022-10-20T10:10:58.840Z [server] info: retrieving product listing
+2022-10-20T10:11:22.852Z [server] info: retrieving product listing
+2022-10-20T10:11:53.856Z [server] info: retrieving product listing
+2022-10-20T10:12:06.825Z [server] info: retrieving product listing
+2022-10-20T10:12:10.816Z [server] info: retrieving product listing
+2022-10-20T10:12:16.845Z [server] info: retrieving product listing
+2022-10-20T10:12:32.857Z [server] info: retrieving product listing
+2022-10-20T10:12:42.854Z [server] info: retrieving product listing
+2022-10-20T10:13:18.903Z [server] info: retrieving product listing
+2022-10-20T10:13:32.841Z [server] info: retrieving product listing
+2022-10-20T10:13:35.888Z [server] info: retrieving product listing
+2022-10-20T10:14:58.885Z [server] info: retrieving product listing
+2022-10-20T10:15:44.544Z [server] info: server started at http://localhost:61001
+2022-10-20T10:15:47.853Z [server] info: retrieving product listing
+2022-10-20T10:16:22.855Z [server] info: retrieving product listing
+2022-10-20T10:16:38.855Z [server] info: retrieving product listing
+2022-10-20T10:16:59.884Z [server] info: retrieving product listing
+2022-10-20T10:17:32.877Z [server] info: retrieving product listing
+2022-10-20T10:17:47.876Z [server] info: retrieving product listing
+2022-10-20T10:17:49.897Z [server] info: retrieving product listing
+2022-10-20T10:18:31.772Z [server] info: server started at http://localhost:61001
+2022-10-20T10:19:05.803Z [server] info: server started at http://localhost:61001
+2022-10-20T10:22:18.340Z [server] info: server started at http://localhost:61001
+2022-10-20T10:24:18.485Z [server] info: server started at http://localhost:61001
+2022-10-20T10:25:20.974Z [server] info: server started at http://localhost:61001
+2022-10-20T10:27:12.242Z [server] info: server started at http://localhost:61001
+2022-10-20T10:29:29.544Z [server] info: server started at http://localhost:61001
+2022-10-20T10:30:16.107Z [server] info: server started at http://localhost:61001
+2022-10-20T10:30:44.477Z [server] info: server started at http://localhost:61001
+2022-10-20T10:30:47.199Z [server] info: retrieving product listing
+2022-10-20T10:32:30.187Z [server] info: server started at http://localhost:61001
+2022-10-20T10:33:47.719Z [server] info: server started at http://localhost:61001
+2022-10-20T10:34:10.915Z [server] info: server started at http://localhost:61001
+2022-10-20T10:34:37.475Z [server] info: server started at http://localhost:61001
+2022-10-20T10:35:46.247Z [server] info: server started at http://localhost:61001
+2022-10-20T10:38:09.687Z [server] info: server started at http://localhost:61001
